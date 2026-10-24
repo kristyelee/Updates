@@ -16,6 +16,9 @@ Clarifications may be logged/posted below. Clarifications to be clear and confir
 [3:55 PM / 15:55 PT: Detail of Label to Profile, regarding `Bio`, is Updated to Reflect What is Correct where uptightness of info is what is correct[not being uptight should not be implied as accepted or such manner should not be implied as accepted].].
         It should not be implied that the programming events are not acknowledged in update; it was not my intention to not acknowledge this. Factual log will be logged in the correct location. Comment to Follow.
 
+
+The intention in such is to incline towards the natural nature of what is organized, that this is the original nature of what is correct that is had.
+
 This is regarding an update to Bio on my GitHub profile. 
 
 Explanation may follow as it is noted that comment may follow. 
