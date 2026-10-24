@@ -10,3 +10,5 @@ These are clarifications that may be noted in clear on what is the correct point
 -- -- -- -- -- -- -- -- -- --
 
 Clarifications may be logged/posted below. Clarifications to be clear and confirm may be logged/posted below. 
+
+[Date 10-24-26 12:45 PT: Post to clear that clarifications may be made.].
